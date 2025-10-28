@@ -1,10 +1,10 @@
 {
   "windows": {
-    "version": "1.0.1",
-    "download_url": "https://github.com/Heaveen1989/ChecklistBot/releases/download/1.0.1/empresario_bot.exe"
+    "version": "1.0.2",
+    "download_url": "https://github.com/Heaveen1989/ChecklistBot/releases/download/1.0.2/empresario_bot.exe"
   },
   "linux": {
-    "version": "1.0.1",
-    "download_url": "https://github.com/Heaveen1989/ChecklistBot/releases/download/1.0.1/empresario_bot"
+    "version": "1.0.2",
+    "download_url": "https://github.com/Heaveen1989/ChecklistBot/releases/download/1.0.2/empresario_bot"
   }
 }
